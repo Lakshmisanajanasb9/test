@@ -1,7 +1,8 @@
-def greet(name):
-    return f"Hello, {name}!"
+class MyClass:
+    def __init__(self):
+        pass
 
-if __name__ == "__main__":
-    name = input("Enter your name: ")
-    print(greet(name))
+
+def my_function():
+    print("Hello World!")
 
